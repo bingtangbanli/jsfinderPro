@@ -29,9 +29,9 @@ Usage:使用前请提前清空result文件夹，信息提取的结果会保存�
 
 ### 4、js敏感信息规则修改
 
-目前正则匹配的文件在regex_file\convention.txt中，可以通过修改配置文件中的正则，修改匹配js文件中的内容
+目前正则匹配的文件在regex_file/convention.txt中，可以通过修改配置文件中的正则，修改匹配js文件中的内容
 
-最新的正则内容如下,请自行替换regex_file\convention.txt文件的内容：
+#### 最新的正则内容如下,请自行替换regex_file/convention.txt文件的内容：
 ```
 大陆手机号: \b1[3456789]\d{9}\b
 身份证: \b\d{17}[\dXx]\b
