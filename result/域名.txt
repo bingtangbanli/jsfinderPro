@@ -1,0 +1,5 @@
+example.com
+www.example.com
+www.google.com
+example.oss-cn-hangzhou.aliyuncs.com
+api.example.com

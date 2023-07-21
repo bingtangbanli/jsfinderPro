@@ -1,0 +1,6 @@
+//example.oss-cn-hangzhou.aliyuncs.com/file.txt
+//
+//www.example.com/path/to/page
+/user/profile
+//127.0.0.1
+//api.example.com/v2/docs/swagger.json
